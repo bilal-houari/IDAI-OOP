@@ -6,10 +6,10 @@ short int p = 10;
 ```
 Quels sont le type et la valeur de chacune des expressions suivantes :
 
-p + 3: Type: int, Valeur: 13
-c + 1: Type: int, Valeur: 2
-p + c: Type: int, Valeur: 11
-3 * p + 5 * c: Type: int, Valeur: 35
+p + 3: Type: int, Valeur: 13  
+c + 1: Type: int, Valeur: 2  
+p + c: Type: int, Valeur: 11  
+3 * p + 5 * c: Type: int, Valeur: 35  
 
 # Exercice 2
 Soient les déclarations :
@@ -23,10 +23,10 @@ double z = 5.5;
 ```
 Quels sont le type et la valeur de chacune des expressions suivantes :
 
-n + c + p: Type: long, Valeur: 1010
-2 * x + c: Type: float, Valeur: 7.5
-(char) n + c: Type: int, Valeur: 10
-(float) z + n / 2: Type: float, Valeur: 7.5
+n + c + p: Type: long, Valeur: 1010  
+2 * x + c: Type: float, Valeur: 7.5  
+(char) n + c: Type: int, Valeur: 10  
+(float) z + n / 2: Type: float, Valeur: 7.5  
 
 # Exercice 3
 Soient les déclarations suivantes :
@@ -99,9 +99,9 @@ int main() {
 }
 ```
 
-Résultats:
-A: i=1 j=0 n=0
-B: i=11 j=0 n=11
-C: i=21 j=5 n=25
-D: i=15 j=5 n=43
-E: i=15 j=4 n=-172
+Résultats:  
+A: i=1 j=0 n=0  
+B: i=11 j=0 n=11  
+C: i=21 j=5 n=25  
+D: i=15 j=5 n=43  
+E: i=15 j=4 n=-172  
